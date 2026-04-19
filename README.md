@@ -74,7 +74,8 @@ The objective is to identify key drivers of revenue, profitability, customer beh
 ---
 
 ## 📸 Dashboard Preview  
-*(Add your Power BI dashboard screenshot here)*
+<img width="1311" height="730" alt="image" src="https://github.com/user-attachments/assets/c00dda23-d848-477e-9203-39fb7109542b" />
+
 
 ---
 
@@ -98,4 +99,3 @@ Data Analyst | Power BI | SQL | Python
 
 LinkedIn: https://linkedin.com/in/jumma-mohammad/
 
-## 📂 Project Structure  
